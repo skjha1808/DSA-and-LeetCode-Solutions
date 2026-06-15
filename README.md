@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0709-to-lower-case](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
