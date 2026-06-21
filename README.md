@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
