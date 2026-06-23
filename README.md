@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
