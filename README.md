@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -198,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
