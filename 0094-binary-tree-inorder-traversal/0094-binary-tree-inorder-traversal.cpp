@@ -10,18 +10,24 @@
  * };
  */
 class Solution {
-    void inorder(TreeNode* root, vector<int>& ans){
-        if(root==nullptr) return;
-
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-    }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> answer;
-        inorder(root,answer);
+        vector<int> ans;
+        if(root==nullptr) return {};
+        stack<TreeNode*> st;
+        TreeNode* curr=root;
 
-        return answer;
+        while(curr != nullptr || !st.empty()){
+            while(curr!=nullptr){
+                st.push(curr);
+                curr=curr->left;
+            }
+            curr=st.top();
+            st.pop();
+            ans.push_back(curr->val);
+
+            curr=curr->right;
+        }
+        return ans;
     }
-};
+}; 
