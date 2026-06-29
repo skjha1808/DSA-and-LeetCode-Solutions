@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1323-maximum-69-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
