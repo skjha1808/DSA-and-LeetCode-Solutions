@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
