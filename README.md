@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
