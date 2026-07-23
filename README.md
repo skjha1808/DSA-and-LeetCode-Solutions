@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1796-second-largest-digit-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
