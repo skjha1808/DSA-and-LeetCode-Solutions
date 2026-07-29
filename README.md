@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
