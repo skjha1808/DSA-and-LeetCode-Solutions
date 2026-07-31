@@ -9,18 +9,7 @@ public:
 
         int mincnt = 0;
         for (int i=0;i<26;i++) {
-            if(i<8){
-                mincnt += freq[i];
-            }
-            else if(i>=8 && i<=15){
-                mincnt += (freq[i] * 2);
-            }
-            else if(i>=16 && i<=23){
-                mincnt += (freq[i] * 3);
-            }
-            else {
-                mincnt += (freq[i] * 4);
-            }
+            mincnt += freq[i] * (i/8 + 1);
         }
 
         return mincnt;
