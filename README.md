@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
