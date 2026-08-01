@@ -29,11 +29,11 @@ public:
                 greatertail = temp;
                 temp = temp->next;
             }
-
-            // add both list
-            greatertail->next = nullptr;
-            lesstail->next = dummygreater->next;
         }
+
+        // add both list
+        greatertail->next = nullptr;
+        lesstail->next = dummygreater->next;
 
         return dummyless->next;
     }
