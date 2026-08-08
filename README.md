@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
 | ------- |
