@@ -7,13 +7,12 @@ public:
         int maxi = 0, i = 0;
         for (int j = 0; j < n; j++) {
             mp[nums[j]]++;
-            if (mp[nums[j]] <= k) {
-                maxi = max(maxi, j - i + 1);
-            }
+            
             while (mp[nums[j]] > k) {
                 mp[nums[i]]--;
                 i++;
             }
+            maxi = max(maxi, j - i + 1);
         }
 
         return maxi;
