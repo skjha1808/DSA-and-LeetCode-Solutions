@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
