@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
