@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
