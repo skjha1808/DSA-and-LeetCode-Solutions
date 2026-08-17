@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
