@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1901-find-a-peak-element-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
