@@ -2,9 +2,10 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
         int n = s.size();
+        if (n != goal.size()) return false;
 
-        for (int i = 0; i < s.size(); i++) {
-            string rotated = s.substr(i) + s.substr(0, i);
+        for (int i = 0; i < n; i++) {
+            string rotated = s.substr(i,n) + s.substr(0, i);
             if (rotated == goal) {
                 return true;
             }
