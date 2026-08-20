@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1922-count-good-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -573,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
