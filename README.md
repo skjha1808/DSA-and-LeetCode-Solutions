@@ -578,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1922-count-good-numbers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
