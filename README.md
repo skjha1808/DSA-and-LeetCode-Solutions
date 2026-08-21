@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Math
 |  |
@@ -588,4 +590,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
