@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
 | ------- |
