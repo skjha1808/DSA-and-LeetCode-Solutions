@@ -2,35 +2,15 @@ class Solution {
 public:
     long long countCommas(long long n) {
         long long count = 0;
+        long long start = 1000;
+        long long commas = 1;
 
-        if (n < 1000) {
-            return 0;
-        }
+        while (start <= n) {
+            long long end = min(n, start * 1000 - 1);
+            count += (end - start + 1) * commas;
 
-        if (n < 1000000) {
-            count += n - 999;
-        } 
-        else if (n < 1000000000) {
-            count += 999000;
-            count += (n - 999999) * 2;
-        } 
-        else if (n < 1000000000000LL) {
-            count += 999000;
-            count += 999000000LL * 2;
-            count += (n - 999999999) * 3;
-        } 
-        else if (n < 1000000000000000LL) {
-            count += 999000;
-            count += 999000000LL * 2;
-            count += 999000000000LL * 3;
-            count += (n - 999999999999LL) * 4;
-        } 
-        else {
-            count += 999000;
-            count += 999000000LL * 2;
-            count += 999000000000LL * 3;
-            count += 999000000000000LL * 4;
-            count += (n - 999999999999999LL) * 5;
+            start *= 1000;
+            commas++;
         }
 
         return count;
