@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
