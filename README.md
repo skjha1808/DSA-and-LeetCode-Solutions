@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Matrix
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
