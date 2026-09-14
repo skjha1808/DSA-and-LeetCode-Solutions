@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -737,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
