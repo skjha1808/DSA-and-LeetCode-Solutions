@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/skjha1808/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
