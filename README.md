@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0561-array-partition) |
