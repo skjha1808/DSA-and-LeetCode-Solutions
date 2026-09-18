@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
