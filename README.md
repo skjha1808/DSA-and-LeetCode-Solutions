@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4024-nearest-available-drone](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [4024-nearest-available-drone](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Recursion
 |  |
 | ------- |
