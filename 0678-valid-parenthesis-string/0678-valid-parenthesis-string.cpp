@@ -1,24 +1,27 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int mini=0, maxi=0;
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                mini += 1;
-                maxi += 1;
-            }
-            else if(s[i]==')'){
-                mini -= 1;
-                maxi -= 1;
-            }
-            else {
-                mini -= 1;
-                maxi += 1;
-            }
+        int low = 0;
+        int high = 0;
 
-            if(mini<0) mini=0;
-            if(maxi<0) return false;
+        for (char c : s) {
+
+            if (c == '(') {
+                low++;
+                high++;
+            }
+            else if (c == ')') {
+                low = max(0, low - 1);
+                high--;
+            }
+            else { 
+                low = max(0, low - 1);
+                high++;
+            }
+            
+            if (high < 0) return false;
         }
-        return mini==0;
+
+        return low == 0;
     }
 };
