@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
