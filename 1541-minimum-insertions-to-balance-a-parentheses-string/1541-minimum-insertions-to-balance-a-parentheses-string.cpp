@@ -8,18 +8,14 @@ public:
                 open++;
             } 
             else if (i + 1 < s.size() && s[i + 1] == ')') {
-                if (open > 0)
-                    open--;
-                else
-                    ans++;
+                if (open > 0) open--;
+                else ans++;
                 i++;
             } 
             else {
                 ans++;
-                if (open > 0)
-                    open--;
-                else
-                    ans++;
+                if (open > 0) open--;
+                else ans++;
             }
         }
 
