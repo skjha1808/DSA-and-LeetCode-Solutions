@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
 | ------- |
