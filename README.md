@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
