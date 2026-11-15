@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/skjha1808/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/skjha1808/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skjha1808/DSA-and-LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
